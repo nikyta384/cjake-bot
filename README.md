@@ -10,10 +10,10 @@ You can run it locally if you want, but the real power is in the cloud setup whe
 
 Here are a couple of screenshots showing the bot in action:
 
-![Screenshot of getting a summary by button](screenshots/bot_summary.png)  
+![Screenshot of getting a summary by button](screenshots/bot_summary.jpg)  
 *Example of clicking the button to get a 1-hour news summary.*
 
-![Screenshot of asking a question to the bot](screenshots/bot_query.png)  
+![Screenshot of asking a question to the bot](screenshots/bot_query.jpg)  
 *Example of writing a question and getting a response from ChromaDB search.*
 
 (Replace the image paths with your actual screenshot files, e.g., add them to a `screenshots` folder in the repo.)
