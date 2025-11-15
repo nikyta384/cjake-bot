@@ -1,0 +1,7 @@
+telethon 
+chromadb 
+openai 
+python-dotenv
+python-telegram-bot
+schedule
+pydantic

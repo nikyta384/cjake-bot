@@ -1,0 +1,63 @@
+doubletop:
+  priority: 1
+  summary: "Crypto market breaking news and big events"
+
+doubletop_chat:
+  priority: 3
+  summary: "Chat of doubletop messages."
+
+mexcdex:
+  priority: 3
+  summary: "Spreads between Mexc and Dex markets more than 10%"
+
+ua_invest:
+  priority: 1
+  summary: "Information about investing."
+
+pool_alerts:
+  priority: 3
+  summary: "Alerts from ua_invest for interesting pools on markets."
+
+a01k_crypto:
+  priority: 1
+  summary: "Analytics about current crypto situation."
+
+trade001k:
+  priority: 1
+  summary: "Analytics about current crypto situation."
+
+okxboostx:
+  priority: 2
+  summary: "Alerts about new OKX boost airdrops."
+
+binance_wallet_announcements:
+  priority: 1
+  summary: "Messages from official Binance about new airdrops, TGE, pre-TGE, and other important info."
+
+web3singal:
+  priority: 3
+  summary: "Alert summary of binance_wallet_announcements messages"
+
+cryptoflower28:
+  priority: 4
+  summary: "Also analytics about current crypto situation."
+
+futuraXnews:
+  priority: 2
+  summary: "Fresh crypto news."
+
+NewListingsFeed:
+  priority: 2
+  summary: "Just listed tokens on markets."
+
+DelistingsFeed:
+  priority: 2
+  summary: "Just delisted tokens on markets."
+
+oncrypto3:
+  priority: 2
+  summary: "Private analytics about current abilities for earning in crypto."
+
+diary_toyoshik:
+  priority: 2
+  summary: "Private analytics about current abilities for earning in crypto."

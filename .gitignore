@@ -1,0 +1,14 @@
+# Ignore all Terraform generated files inside iac/
+iac/.terraform/
+iac/.terraform.lock.hcl
+iac/*.tfstate
+iac/*.tfstate.*
+iac/crash.log
+iac/*.tfplan
+iac/override.tf
+iac/override.tf.json
+iac/*_override.tf
+iac/*_override.tf.json
+iac/.terraformrc
+iac/terraform.rc
+iac/secrets.tfvars
